@@ -1,0 +1,19 @@
+{
+  "name": "initializr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "@sendgrid/contact-importer": "^6.2.1",
+    "body-parser": "^1.18.3",
+    "bulma": "^0.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "jen chan",
+  "license": "ISC"
+}

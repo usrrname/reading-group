@@ -1,0 +1,22 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+@import url("https://fonts.googleapis.com/css?family=Noto+Serif:400,700|Work+Sans");
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.title {
+  font-family: "Noto Serif";
+  font-weight: 700;
+}
+body {
+  font-family: "Work Sans", Arial, sans-serif;
+}
+#mc_embed_signup {
+  background: #fff;
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
+}
