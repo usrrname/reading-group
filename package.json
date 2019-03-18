@@ -1,10 +1,9 @@
 {
-  "name": "initializr",
+  "name": "bulmalizr",
   "version": "1.0.0",
   "description": "",
   "main": "",
   "dependencies": {
-    "@sendgrid/contact-importer": "^6.2.1",
     "body-parser": "^1.18.3",
     "bulma": "^0.7.2"
   },
